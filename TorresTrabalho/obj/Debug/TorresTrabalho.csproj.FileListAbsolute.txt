@@ -1,0 +1,9 @@
+c:\users\rodri\onedrive\documents\visual studio 2015\Projects\TorresTrabalho\TorresTrabalho\bin\Debug\TorresTrabalho.exe.config
+c:\users\rodri\onedrive\documents\visual studio 2015\Projects\TorresTrabalho\TorresTrabalho\bin\Debug\TorresTrabalho.exe
+c:\users\rodri\onedrive\documents\visual studio 2015\Projects\TorresTrabalho\TorresTrabalho\bin\Debug\TorresTrabalho.pdb
+c:\users\rodri\onedrive\documents\visual studio 2015\Projects\TorresTrabalho\TorresTrabalho\obj\Debug\TorresTrabalho.csprojResolveAssemblyReference.cache
+c:\users\rodri\onedrive\documents\visual studio 2015\Projects\TorresTrabalho\TorresTrabalho\obj\Debug\TorresTrabalho.Form1.resources
+c:\users\rodri\onedrive\documents\visual studio 2015\Projects\TorresTrabalho\TorresTrabalho\obj\Debug\TorresTrabalho.Properties.Resources.resources
+c:\users\rodri\onedrive\documents\visual studio 2015\Projects\TorresTrabalho\TorresTrabalho\obj\Debug\TorresTrabalho.csproj.GenerateResource.Cache
+c:\users\rodri\onedrive\documents\visual studio 2015\Projects\TorresTrabalho\TorresTrabalho\obj\Debug\TorresTrabalho.exe
+c:\users\rodri\onedrive\documents\visual studio 2015\Projects\TorresTrabalho\TorresTrabalho\obj\Debug\TorresTrabalho.pdb
